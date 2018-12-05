@@ -1,0 +1,12 @@
+.product 
+{
+	margin: 0 auto;
+}
+.product h1
+{
+	text-align: center;
+}
+.product_description
+{
+	display: block;
+}
